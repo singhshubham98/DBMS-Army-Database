@@ -1,0 +1,17 @@
+SET SEARCH_PATH to armydb;
+INSERT INTO location VALUES(382421,'Gandhinagar','Gujarat','India');
+INSERT INTO location VALUES(382422,'Allahabad','Uttar Pradesh','India');
+INSERT INTO location VALUES(382423,'Bakora Steel City', 'Jharkhand', 'India');
+INSERT INTO location VALUES(382424,'patna','Bihar','India');
+INSERT INTO location VALUES(382425,'jabalpur','Madhya Pradesh','India');
+INSERT INTO location VALUES(382426,'Imphal','Manipur','India');
+INSERT INTO location VALUES(382427,'Pune','Mumbai','India');
+INSERT INTO location VALUES(382428,'Delhi','Delhi','India');
+INSERT INTO location VALUES(382429,'Kargil','J&K','India');
+INSERT INTO location VALUES(382430,'Danapur','Bihar','India');
+INSERT INTO location VALUES(382431,'Gangtok','Sikkim','India');
+INSERT INTO location VALUES(382432,'Ganganagar','Rajasthan','India');
+INSERT INTO location VALUES(382433,'Kohima','Nagaland','India');
+INSERT INTO location VALUES(382434,'Roorkee','Uttarakhand','India');
+INSERT INTO location VALUES(382436,'Durgapur','Westbangal','India');
+INSERT INTO location VALUES(382437,'Chiniot','Panjab','India');

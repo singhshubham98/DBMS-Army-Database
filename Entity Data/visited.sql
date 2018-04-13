@@ -1,0 +1,18 @@
+SET SEARCH_PATH TO armydb;
+INSERT INTO visited VALUES(19339,'382422','2011-01-10','For a confidential meeting');
+INSERT INTO visited VALUES (33998, '382426','2015-10-05','For meeting with a Chinese officer');
+INSERT INTO visited VALUES (13423, '382425','2013-05-26','For meeting on movement of pakistan');
+INSERT INTO visited VALUES (49159, '382429','2006-12-28','For a meeting of visit of Dalai Lama');
+INSERT INTO visited VALUES (29603, '382436','2008-07-12','For reviewing a deal of weapons with Russia');
+INSERT INTO visited VALUES (10923, '382429','2005-03-21','For awarding a medal');
+INSERT INTO visited VALUES (12300, '382427','2003-11-04','For discussing border-security issues in Capital');
+INSERT INTO visited VALUES (11305, '382430','2010-01-05','For a techincal meeting on radar technology with Taiwan');
+INSERT INTO visited VALUES (10045, '382431','2013-01-19','For a surgical strike on Pakistan.');
+INSERT INTO visited VALUES (12005, '382425','2016-09-30','For a meeting with the naval-chief');
+INSERT INTO visited VALUES (11046, '382436','2017-01-31','For a meeting at Indo-Pak Border');
+INSERT INTO visited VALUES (13045, '382437','2011-01-17','For a meeting with Air-chief');
+INSERT INTO visited VALUES (21045, '382428','2001-10-12','For a confidential meeting');
+INSERT INTO visited VALUES (14345, '382422','2016-12-12','For reviewing a deal of weapons with America');
+INSERT INTO visited VALUES (12300, '382421','2009-05-19','For a meeting in New-Delhi');
+INSERT INTO visited VALUES (14345, '382427','2008-08-05','For a meeting with Chinese officials');
+INSERT INTO visited VALUES (12245, '382433','2001-11-24','For a meeting on purchasing new weapons');
