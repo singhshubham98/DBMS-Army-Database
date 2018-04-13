@@ -1,0 +1,11 @@
+SET SEARCH_PATH TO armydb;
+INSERT INTO "work"(type, salary) Values ('Soldier', '23000');
+INSERT INTO "work"(type, salary) Values ('Havildar', '12000');
+INSERT INTO "work"(type, salary) Values ('Lieutenant', '56100');
+INSERT INTO "work"(type, salary) Values ('Field Marshal', '250000');
+INSERT INTO "work"(type, salary) Values ('Lieutenant General', '225000');
+INSERT INTO "work"(type, salary) Values ('Major General', '144200');
+INSERT INTO "work"(type, salary) Values ('Brigadier', '134400');
+INSERT INTO "work"(type, salary) Values ('Colonel', '125700');
+INSERT INTO "work"(type, salary) Values ('Major', '69400');
+INSERT INTO "work"(type, salary) Values ('Captain', '61300');

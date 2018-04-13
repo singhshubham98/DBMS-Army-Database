@@ -1,0 +1,11 @@
+SET SEARCH_PATH to armydb;
+INSERT INTO battalian VALUES('Madras Regiment', 13011, 1992,20);
+INSERT INTO battalian VALUES('Madras Regiment',27989,2013,25);
+INSERT INTO battalian VALUES('Rajputana Rifles' ,14255,1996,18);
+INSERT INTO battalian VALUES('Rajputana Rifles' ,14256,2010,22);
+INSERT INTO battalian VALUES('Sikh Regiment',12402,1980,15);
+INSERT INTO battalian VALUES('Sikh Regiment',11046,2011,19);
+INSERT INTO battalian VALUES('Jat Regiment',11238,1994,18);
+INSERT INTO battalian VALUES('Jat Regiment',10305,2014,24);
+INSERT INTO battalian VALUES('Rajput Regiment',12356,1982,15);
+INSERT INTO battalian VALUES('Rajput Regiment',49158,2011,18);
