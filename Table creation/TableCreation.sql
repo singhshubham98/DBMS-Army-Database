@@ -11,7 +11,7 @@ name VARCHAR(100) PRIMARY KEY
 -- class describe the type of the weapons
 CREATE TABLE category (
 name  VARCHAR(100) PRIMARY KEY,
-class VARCHAR(70)
+class VARCHAR(100)
 );
 
 -- Weapons Details of the army
